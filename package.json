@@ -1,0 +1,32 @@
+{
+  "name": "filter-and-random",
+  "version": "1.2.0",
+  "description": "Pick random data from array or object with specific filter",
+  "main": "index.js",
+  "type": "module",
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rowan",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/rowanhere/filter-and-random.git"
+  },
+  "keywords": [
+		"pick",
+		"choose",
+		"random",
+		"list",
+		"raffle",
+		"item",
+		"element",
+		"decision",
+		"winner",
+		"picking",
+		"picker",
+		"choosing",
+    "obejct",
+    "random object",
+    "filter object"
+	]
+}
